@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Deck/> render with default/required props 1`] = `
+<section
+  className="deck"
+>
+  <Card
+    key="0"
+    onClick={[Function]}
+    rank={14}
+    type={1}
+  />
+  <Card
+    key="1"
+    onClick={[Function]}
+    rank={14}
+    type={2}
+  />
+  <Card
+    key="2"
+    onClick={[Function]}
+    rank={14}
+    type={4}
+  />
+  <Card
+    key="3"
+    onClick={[Function]}
+    rank={14}
+    type={8}
+  />
+</section>
+`;
