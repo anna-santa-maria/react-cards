@@ -5,10 +5,8 @@
 
 |                  | master
 |---               |---
-| __tests__        |
-| _< Circle CI >_  | [![build][ci.tests-master-badge]][ci.tests-master]
-| __coverage__     |
-| _< codecov.io >_ | [![coverage][ci.coverage-master-badge]][ci.coverage-master]
+| __tests__        | [![build][ci.tests-master-badge]][ci.tests-master]
+| __coverage__     |[![coverage][ci.coverage-master-badge]][ci.coverage-master]
 
 ![img](https://github.com/anna-santa-maria/react-cards/blob/master/docs/screencapture-localhost-3000-1516748975936.png)
 
